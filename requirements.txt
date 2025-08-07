@@ -1,5 +1,2 @@
-fastapi
-uvicorn
-openai
-sqlalchemy
-psycopg2-binary
+gunicorn==23.0.0
+packaging==25.0
